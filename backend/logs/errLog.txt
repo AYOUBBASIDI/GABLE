@@ -1,0 +1,16 @@
+20230126	10:29:27	0d8718d8-4f24-4080-8b09-e396a27213b3	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	10:30:13	806bafe8-1a40-4c58-a2a2-3706c4acd727	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	10:30:54	341aa582-5638-4ca2-af6d-526b30bd5357	ReferenceError: fetch is not defined
+20230126	10:55:33	f30b4be9-0da6-4fe5-b976-f63f0507ca8c	TypeError: Assignment to constant variable.
+20230126	10:55:35	ad88a171-0fe3-40f5-b8a3-5f3bcd1db295	TypeError: Assignment to constant variable.
+20230126	10:59:01	5d144b8c-f0eb-418f-9cb0-27fd59bd0c5d	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:07:03	fc9c9b32-203d-4f87-b52b-c376c3a5eb63	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:07:06	3284d69e-ec75-4803-b2dc-76b8f4aebd10	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:24	c1066b83-2ac3-40c3-94ae-d86060143369	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:25	a3787789-4f0e-4336-b952-5b71cf9adf3d	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:32	6006d2c9-005c-4834-9462-ab43b92de49f	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:08:32	ed40b00d-0141-4514-a10d-bb00a6136ebe	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	11:11:45	a4b6622e-d6c2-419b-9c90-0f4beb38813b	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230126	12:05:36	db6e712b-f4d7-47b5-8f01-5e742ed7166b	Error: ENOENT: no such file or directory, stat 'C:\wamp64\www\Meteo_App\Api\views\404.html'
+20230127	10:47:44	fa0d07d1-b8c6-4622-bf44-566b95105a71	Error: Not allowed by CORS
+20230127	14:55:22	415e1a79-078a-48f8-8ba5-e7cdf7954353	Error: Not allowed by CORS
